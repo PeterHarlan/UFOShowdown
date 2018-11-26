@@ -1,0 +1,9 @@
+.infoBlock{
+	background: #47B754; 
+	width: 600px;
+}
+
+body {
+	 background-image: url("../img/animation/backgroundTile.jpg");
+    background-repeat: repeat;
+}
