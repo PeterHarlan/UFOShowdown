@@ -24,8 +24,10 @@ Using a single image, the explosion animaiton is played. To achieve this illusio
 ##	User manual
 Using the mouse, the user can rotate the cannon while the target automatically bounces back and forth. By clicking on the screen, the user can launch a cannon ball at the target. If the target is hit, an animcation of an explosion is played.
 
-##	Known Problems, Bugs, Limitations, Unimplemented Features
+## Lesson Learned
+By coding this project, I learned about the canvas component and how manipulate the different objects to create illusions. In addition, I had to brush up on some trigonometry to calculate the degree of rotation using the x and y axis of the mouse and the atan2 function to convert the degree to radians; the radians was used to rotate the cannon component. Moreover, I learned about how to use a sliding window to draw the explosition animation using one image.
 
+##	Known Problems, Bugs, Limitations, Unimplemented Features
 __Problems/Bugs__
 Although the canvas resizes on a desk top screen using Firefox browser, it is not mobile friendly. 
 
@@ -37,5 +39,5 @@ A JavaScript component needs to be used to resize the canvas conponent so that i
 < https://getbootstrap.com/>
 •	The project was coded using Sublime Text 3 Trial version. 
 <https://www.sublimetext.com/>
-•	Knowledge about JQuery, Node, JavaScript, and CSS was gathering from w3schools. 
+•	Knowledge about JQuery, Canvas, and JavaScript was gathering from w3schools. 
 <https://www.w3schools.com/
