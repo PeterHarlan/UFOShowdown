@@ -1,4 +1,6 @@
 # UFO Showdown
+http://people.wku.edu/peter.harlan996/UFOGame.html
+
 ## Requirements Summarization
 
 Overall, this is a HTML canvas based game that has a cannon that can launch a cannon ball at an UFO. The cannon rotates based on the position of the mouse. In addition, the target of the game bounces back and forth from the screen between the width of the canvas. The user starts out with 10 cannon balls that s/he can use to shoot at the UFO. The game keeps track of the number of hits as the score and displays at each update. 
